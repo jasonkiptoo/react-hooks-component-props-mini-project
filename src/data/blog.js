@@ -1,6 +1,6 @@
 import logo from "../assets/logo.svg";
 
-const blogData = {
+const blogData = { 
   name: "Underreacted",
   image: logo,
   about: "A blog about learning React",
@@ -19,7 +19,7 @@ const blogData = {
       preview: "Passing props is never passé",
       minutes: 15,
     },
-    {
+    { 
       id: 3,
       title: "Function vs Class Components",
       preview: "React, meet OOJS.",
