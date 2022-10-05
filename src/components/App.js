@@ -7,7 +7,7 @@ import Article from "./Article";
 
 
 function App() {
-  return (
+  return ( 
     <div >
           <Header name={blogData.name} />
           <About image={blogData.image} about={blogData.about} />

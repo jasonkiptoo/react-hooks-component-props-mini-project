@@ -7,7 +7,7 @@ function Header({name}){
 
         <h1> {name}</h1>
 
-        </header>
+        </header> 
     );
 }
 
